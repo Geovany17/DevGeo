@@ -1,0 +1,19 @@
+{
+  "name": "devgio",
+  "version": "1.0.0",
+  "description": "devgeo website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geovany17/DevGio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geovany17/DevGio/issues"
+  },
+  "homepage": "https://github.com/Geovany17/DevGio#readme"
+}
